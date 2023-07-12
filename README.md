@@ -144,6 +144,20 @@ October To Total
 Here we can easily evaluate that effect of increasing QTY by 5% which cause incresing operating income by 9.26% with about $ 201K in Total due to:
    - Increasing in Revenue, Cost  by $ 484K, $ 283K respectively.
 
+## Revenue Analysis
+![](RevenueAnalysis.png)
+
+Here is one of the most smart chart Decomposition Tree which give stackholder the applity to select any categorical features in any order on his point of view to check the 
+Highest or Lowset revenue due to this feature.
+
+On this dashboard I trace the cause of the highest revenue following this branches  
+start with category and found that food is the highest about $9M.
+Wheat Flours is the highest in group about $3M , Retail Team is the best contribute with about $1M in revenue 
+Keep tracking and check supervesiors, found that Maci Pena superis had achieved the higest revenue with about $1M 
+Great Now we reached that Shahid Duran is the highest sales person in revenue and finally Two Brother Mill is the best Supplier follwing this tree. 
+
+
+
 ## Conclusions/Recommendations
 - ** ** 
 - ** ** 
