@@ -39,11 +39,11 @@ Below is a preview of the tables:
 
 Account Header Table             |           Account Table
 :--------------------------:|:------------------------:
-![](AccountHeaderTB.png)          |         ![](AccountTB.png)
+![](AccountHeaderTB.png)         |         ![](AccountTB.png)
 
-Products Table              |         Expenses Table
+Products Table              |               Expenses Table
 :---------------------------:|:----------------------
-![](ProductTB.png)             |     ![](ExpensesTB.png)
+![](ProductTB.png)                |     ![](ExpensesTB.png)
 
 
 **Revenue Table**
@@ -65,7 +65,7 @@ Revenue & Expenses Table has been modelled with:
 - Account Tables via "Account ID"
 - AccountHeader Tables via "Header ID"
 
-![model](Data Modelling.png)
+![model](DataModelling.png)
 
 
 ## Data Aanalysis/ Visualization
@@ -88,24 +88,61 @@ I then had to drill down the Supplier to know the exact Group with the highest %
 
 With further visual analysis, It is interesting to create dynamic income statement in Power BI adding Vertical and Horizontal Analysis.
 
-## Income Statement
+We can then Right click on "Category, Group, Product, Sales Person, Supervisor, Supplier or Team" to go to Order details
+Here I Check  Two Brother Mill Supplier Order details.
 
-![](salesorganic.PNG)
+![](OrderDetails.png)
+
+## Income Statement
+Income statement dashboard appear in Periods due to the largest width, However it's shown in one matrix same dashboard in actual project.
+
+January To April            
+:--------------------------:
+![](IncomeStatement.png)     
+
+April To July   
+:--------------------------:
+![](IncomeStatement2.png)  
+
+July To October              
+:--------------------------:
+![](IncomeStatement3.png)     
+ 
+October To Total
+![](IncomeStatement4.png)
 
 Hmmm! Now we can notice that January has the minimum cost of sales which cause the increasing in gross margin % in January than November
 We should be careful while checking Month over Month Horizontal analysis "% MOM HA" in Cost of sales & Operating Expenses that the decresing ⬇️ (-) sign means
 increasing in Cost of sales & Operating Expenses as they are in negative sign and they cause decreasing gross revenue and gross margin.
-For example Cost of sales had increased in February by about 121% than January its goes up from (148,107) to (327,834) 
+For example "% MOM HA" in Cost of sales in February Month equal -121% means that: 
+   It increased in February by about 121% than January its goes up from (148,107) to (327,834).
 
-![]()
-
-Morris Garcia has the highest sales.
+Waterfall chart clear the Operating income by month, September had the highest operating income.
 
 ## Financial Simulation
+Financial Simulation dashboard appear in Periods due to the largest width, However it's shown in one matrix same dashboard in actual project.
 
-![]()
+What if? analysis measure and evaluate the change in QTY, Unit Price, Cost and Expenses Factor and the effect on Operating Income.
+by only moving the slicer on any factor and evaluate the effect on Operating Income.
 
-.
+January To April            
+:--------------------------:
+![](FinancialSimulation.png)
+
+April To July   
+:--------------------------:
+![](FinancialSimulation2.png)  
+
+July To October              
+:--------------------------:
+![](FinancialSimulation3.png)     
+ 
+October To Total
+![](FinancialSimulation4.png)
+
+
+Here we can easily evaluate that effect of increasing QTY by 5% which cause incresing operating income by 9.26% with about $ 201K in Total due to:
+   - Increasing in Revenue, Cost  by $ 484K, $ 283K respectively.
 
 ## Conclusions/Recommendations
 - ** ** 
