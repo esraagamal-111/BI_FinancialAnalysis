@@ -154,7 +154,7 @@ On this dashboard I trace the cause of the highest revenue following this branch
 start with category and found that food is the highest about $9M.
 Wheat Flours is the highest in group about $3M, Retail Team is the best contribute with about $1M in revenue 
 Keep tracking and check supervesiors, found that Maci Pena superis had achieved the higest revenue with about $1M 
-Great Now we reached that Shahid Duran is the highest sales person in revenue and finally Two Brother Mill is the best Supplier follwing this tree. 
+Great Now we reached that Shahid Duran is the best sales person Following this analysis. 
 
 ## % Gross Margin Analysis
 Here is one of another smart chart which easily give stackholder the insights to know which Features influence Gross Margin to increase or decrease and by How much in %?
