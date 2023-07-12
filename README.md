@@ -152,17 +152,23 @@ Highest or Lowset revenue due to this feature.
 
 On this dashboard I trace the cause of the highest revenue following this branches  
 start with category and found that food is the highest about $9M.
-Wheat Flours is the highest in group about $3M , Retail Team is the best contribute with about $1M in revenue 
+Wheat Flours is the highest in group about $3M, Retail Team is the best contribute with about $1M in revenue 
 Keep tracking and check supervesiors, found that Maci Pena superis had achieved the higest revenue with about $1M 
 Great Now we reached that Shahid Duran is the highest sales person in revenue and finally Two Brother Mill is the best Supplier follwing this tree. 
 
+## % Gross Margin Analysis
+Here is one of another smart chart which easily give stackholder the insights to know which Features influence Gross Margin to increase or decrease and by How much in %?
+![](GrossMarginInfluencers.png)
+
+Here we can find that Imported Wine to increase by about 27% on average 
 
 
 ## Conclusions/Recommendations
-- ** ** 
-- ** ** 
-- ** ** 
+- **Wheat Flours** had the Highest  Revenue and sales.
+- **Imported wine** had the highest % Gross Margin.
+- **Recommend to studying the cross selling of Wheat Flours and Imported wine with the other products and make offers on the least product sales**.
 ------
+
 
 
 
